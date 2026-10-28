@@ -463,6 +463,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 
 ### Community Resources
 
+- [Agent Skills Directory](https://suedeai.directory) - Compare Claude Code, Codex and OpenClaw skills using a published 0–99 structural quality rubric, with source attribution and installation evidence on full skill pages.
 - [Anthropic Skills Repository](https://github.com/anthropics/skills) - Official example skills
 - [Claude Community](https://community.anthropic.com) - Discuss skills with other users
 - [Skills Marketplace](https://claude.ai/marketplace) - Discover and share skills
